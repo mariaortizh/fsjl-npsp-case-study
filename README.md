@@ -1,5 +1,4 @@
-# From Chaos to Clarity
-**Salesforce NPSP Implementation for Foundations**
+# Salesforce NPSP Implementation for Foundations
 
 **TL;DR:** Implemented Salesforce Nonprofit Success Pack (NPSP) to centralize donor and campaign management. Data anonymized for portfolio purposes.
 
