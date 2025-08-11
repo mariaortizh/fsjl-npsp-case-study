@@ -5,7 +5,7 @@
 
 ## Project Overview
 - Role: Salesforce Analyst / Implementer 
-- Tech Stack: Salesforce NPSP · DataLoader · SQL · R · Tableau
+- Tech Stack: Salesforce NPSP · DataLoader · SQL · Tableau
 
 ## Problem
 The donor database was scattered across exports and manual records, resulting in many duplicates and no consolidated reporting.
@@ -13,7 +13,7 @@ The donor database was scattered across exports and manual records, resulting in
 ## Solution (Key Steps)
 1. Design and model NPSP objects  
 2. Data migration (CSV → DataLoader)  
-3. Deduplication and data cleaning (SQL / R)  
+3. Deduplication and data cleaning (SQL)  
 4. Automation and reporting setup  
 5. Training and launch
 
@@ -25,7 +25,6 @@ The donor database was scattered across exports and manual records, resulting in
 ## Repository Contents
 - `/data` → Anonymized CSV files used for demo  
 - `/sql` → Deduplication queries  
-- `/scripts` → Anonymization and transformation scripts  
 - `/tableau` → Screenshots and anonymized Tableau workbook  
 - `/assets` → Images and screenshots
 
