@@ -1,0 +1,6 @@
+donation_id,donor_id,campaign_id,donation_date,amount_numeric,payment_method
+don_0001,donor_0001,camp_001,2023-02-15,250.00,Card
+don_0002,donor_0002,camp_002,2023-01-10,100.00,Transfer
+don_0003,donor_0001,camp_001,2022-12-05,150.00,Card
+don_0004,donor_0003,camp_003,2023-03-20,500.00,Check
+don_0005,donor_0004,camp_002,2023-02-01,75.00,Card
