@@ -1,0 +1,6 @@
+donor_id,name_pseudonym,email_hash,age_group,city,acquisition_channel,first_donation_date
+donor_0001,Donor 001,hash_a1,25-34,Monterrey,Website,2022-03-12
+donor_0002,Donor 002,hash_b2,35-44,Guadalajara,Email,2021-11-02
+donor_0003,Donor 003,hash_c3,45-54,Ciudad de México,Event,2023-01-20
+donor_0004,Donor 004,hash_d4,25-34,León,Referral,2022-07-05
+donor_0005,Donor 005,hash_e5,55-64,Monterrey,Website,2020-09-18 
