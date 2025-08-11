@@ -1,0 +1,5 @@
+CampaignId,Name,Type,Status,StartDate,EndDate,ExpectedRevenue,ActualRevenue,NumResponses
+7011X0000023abcQAA,Annual Gala,Fundraising,Completed,2024-02-15,2024-02-16,50000,52000,120
+7011X0000023abdQAA,Spring Campaign,Email,Completed,2024-04-01,2024-04-30,15000,14850,85
+7011X0000023abeQAA,Monthly Giving,Recurring,In Progress,2024-01-01,2024-12-31,60000,34000,220
+7011X0000023abfQAA,Winter Raffle,Event,Planned,2024-12-05,2024-12-05,8000,0,0
